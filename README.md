@@ -13,9 +13,10 @@ src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=300&s
 ```typescript
 const Iliass = {
     pronouns: "he/him",
+    aka: "imk 25",
     location: "Tangier, Morocco 🇲🇦",
     origin: "Errachidia",
-    education: "Software Engineering — Intelligent Systems",
+    education: "Software Engineering & Intelligent Systems",
     passion: [
         "AI & Machine Learning",
         "Deep Learning",
@@ -27,7 +28,7 @@ const Iliass = {
         "Backend Architecture",
         "Scalable Systems"
     ],
-    Fact: "Every line of code is a step closer to understanding the world 🪔"
+Fact: "Every line of code is a step closer to understanding the world🪔"
 };
 ````
 
@@ -210,7 +211,6 @@ class CurrentGoals:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
----
 
 <img src="https://komarev.com/ghpvc/?username=mohamediliasskaddar&label=Profile%20views&color=1e88e5&style=flat" alt="Profile Views" />
 
@@ -219,7 +219,5 @@ class CurrentGoals:
 </div>
 
 <img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=120&section=footer"/>
-```
 
----
 
