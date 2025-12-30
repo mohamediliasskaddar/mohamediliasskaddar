@@ -13,13 +13,10 @@ src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=300&s
 ```typescript
 const Iliass = {
     pronouns: "he/him",
-    aka: "imk 25",
     location: "Tangier, Morocco 🇲🇦",
-    origin: "Errachidia",
     education: "Software Engineering & Intelligent Systems",
     passion: [
         "AI & Machine Learning",
-        "Deep Learning",
         "Full Stack Web Development",
         "Cloud & DevOps"
     ],
@@ -28,7 +25,7 @@ const Iliass = {
         "Backend Architecture",
         "Scalable Systems"
     ],
-Fact: "Every line of code is a step closer to understanding the world🪔"
+Fact: "Learning is my fuel — coding is my compass"
 };
 ````
 
@@ -44,7 +41,7 @@ Fact: "Every line of code is a step closer to understanding the world🪔"
 
 <div align="center">
 
-### 🌟 "Learning is my fuel — coding is my compass." 🚀
+###  Every line of code is a step closer to understanding the world 🪔. 
 
 </div>
 
@@ -154,15 +151,6 @@ Fact: "Every line of code is a step closer to understanding the world🪔"
 </div>
 
 ---
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=mohamediliasskaddar\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4\&row=1)
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -188,10 +176,8 @@ class CurrentGoals:
         ]
         
     def next_milestone(self):
-        return "Building scalable intelligent applications"
+        return "Build smart. Scale clean. Automate relentlessly"
 ```
-
----
 
 ## 🤝 Let's Connect!
 
@@ -202,18 +188,10 @@ class CurrentGoals:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohamediliassk@gmail.com)
 
 </div>
----
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-
-<img src="https://komarev.com/ghpvc/?username=mohamediliasskaddar&label=Profile%20views&color=1e88e5&style=flat" alt="Profile Views" />
-
-**Thanks for stopping by! Keep learning, keep building 🚀**
+**Thanks for stopping by!**
 
 </div>
 
