@@ -2,7 +2,7 @@
 <img width="100%" height="300" 
 src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=300&section=header&text=Mohamed%20Iliass%20Kaddar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20DevOps&descAlignY=51&descAlign=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1e88e5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Junior+Software+Engineering+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1e88e5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineering+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 <br>
 <div align="center">
