@@ -16,13 +16,13 @@ const Iliass = {
     location: "Tangier, Morocco 🇲🇦",
     education: "Software Engineering & Intelligent Systems",
     passion: [
-        "AI & Machine Learning",
         "Full Stack Web Development",
-        "Cloud & DevOps"
+        "AI & Machine Learning",
+        "DevOps & SRE"
     ],
     currentlyLearning: [
         "Advanced AI Models",
-        "Backend Architecture",
+        "Backend Architecture ",
         "Scalable Systems"
     ],
 Fact: "Learning is my fuel — coding is my compass"
@@ -47,7 +47,7 @@ Fact: "Learning is my fuel — coding is my compass"
 
 ---
 
-## 🛠️ Tech Arsenal
+##      Tech Arsenal
 
 <div align="center">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
@@ -59,16 +59,14 @@ Fact: "Learning is my fuel — coding is my compass"
 
 
 <details>
-<summary>💻 Programming Languages</summary>
+<summary> Programming Languages</summary>
 <br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -76,7 +74,7 @@ Fact: "Learning is my fuel — coding is my compass"
 </details>
 
 <details>
-<summary>⚙️ Frameworks & Libraries</summary>
+<summary> Frameworks & Libraries</summary>
 <br>
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
@@ -86,7 +84,6 @@ Fact: "Learning is my fuel — coding is my compass"
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge\&logo=symfony\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -94,7 +91,7 @@ Fact: "Learning is my fuel — coding is my compass"
 </details>
 
 <details>
-<summary>🗄️ Databases & ORMs</summary>
+<summary> Databases & ORMs</summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -107,7 +104,7 @@ Fact: "Learning is my fuel — coding is my compass"
 </details>
 
 <details>
-<summary>🌍 DevOps</summary>
+<summary> DevOps</summary>
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
@@ -128,14 +125,12 @@ Fact: "Learning is my fuel — coding is my compass"
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 </details>
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -153,7 +148,7 @@ Fact: "Learning is my fuel — coding is my compass"
 ---
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -163,7 +158,7 @@ Fact: "Learning is my fuel — coding is my compass"
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```python
 class CurrentGoals:
@@ -179,7 +174,7 @@ class CurrentGoals:
         return "Build smart. Scale clean. Automate relentlessly"
 ```
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
