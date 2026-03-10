@@ -81,7 +81,6 @@ Fact: "Learning is my fuel — coding is my compass"
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node-dot-js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge\&logo=symfony\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
@@ -178,17 +177,17 @@ class CurrentGoals:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-iliass-kaddar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-iliass-kaddar-002039325/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/iliass_peter)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohamediliassk@gmail.com)
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 **Thanks for stopping by!**
 
-</div>
+</div> -->
 
 <img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=120&section=footer"/>
 
