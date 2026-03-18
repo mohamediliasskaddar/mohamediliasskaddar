@@ -2,7 +2,7 @@
 <img width="100%" height="300" 
 src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=300&section=header&text=Mohamed%20Iliass%20Kaddar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20DevOps&descAlignY=51&descAlign=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1e88e5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineering+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1e88e5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineering+Student;DevOps+%26+AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 <br>
 <div align="center">
@@ -113,17 +113,6 @@ Fact: "Learning is my fuel — coding is my compass"
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana)
-
-</details>
-
-<details>
-<summary>🛠️ Tools & More</summary>
-<br>
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
 
 </details>
 
