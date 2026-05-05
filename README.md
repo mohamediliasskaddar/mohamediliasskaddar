@@ -45,15 +45,13 @@ Fact: "Learning is my fuel — coding is my compass"
 
 </div>
 
-
 <div align="center">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java / Spring Boot" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50"  />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50"  />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50"  />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java / Spring Boot" width="50"  />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50"   />
 </div>
-
 
 
 <div align="center">
@@ -70,8 +68,8 @@ Fact: "Learning is my fuel — coding is my compass"
 class CurrentGoals:
     def __init__(self):
         self.learning = [
-            "Advanced Machine Learning",
-            "Backend Architecture & Cloud",
+            "Advanced ML & AI",
+            "Backend Architecture & system design",
             "System Design Principles",
             "DevOps & CI/CD Automation"
         ]
@@ -84,11 +82,13 @@ class CurrentGoals:
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e88e5?style=for-the-badge\&logo=vercel\&logoColor=white)](https://imk-portfolio-woad.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-iliass-kaddar-002039325/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/iliass_peter)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohamediliassk@gmail.com)
 
 </div>
+
 
 
 <img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=120&section=footer"/>
