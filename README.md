@@ -1,6 +1,6 @@
 <div align="center">
 <img width="100%" height="300" 
-src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=300&section=header&text=Mohamed%20Iliass%20Kaddar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20DevOps&descAlignY=51&descAlign=50" />
+src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=300&section=header&text=Mohamed%20Iliass%20Kaddar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%7C%20DevOps&descAlignY=51&descAlign=50" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1e88e5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineering+Student;DevOps+%26+AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </div>
@@ -17,7 +17,7 @@ const Iliass = {
     education: "Software Engineering & Intelligent Systems",
     passion: [
         "Full Stack Web Development",
-        "AI & Machine Learning",
+        "AI & Data",
         "DevOps & SRE"
     ],
     currentlyLearning: [
@@ -68,8 +68,8 @@ Fact: "Learning is my fuel — coding is my compass"
 class CurrentGoals:
     def __init__(self):
         self.learning = [
-            "Advanced ML & AI",
-            "Backend Architecture & system design",
+            "Advanced AI & ML & DL",
+            "Clean Backend Architecture",
             "System Design Principles",
             "DevOps & CI/CD Automation"
         ]
