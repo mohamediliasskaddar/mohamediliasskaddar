@@ -79,7 +79,7 @@ Fact: "Learning is my fuel — coding is my compass"
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
 </p>
 
-###  Developemeent Frameworks & Libraries 
+###  Developement Frameworks & Libraries 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
