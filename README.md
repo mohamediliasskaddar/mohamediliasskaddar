@@ -1,6 +1,6 @@
 <div align="center">
 <img width="100%" height="300" 
-src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=300&section=header&text=Mohamed%20Iliass%20Kaddar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%7C%20DevOps&descAlignY=51&descAlign=50" />
+src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=300&section=header&text=Mohamed%20Iliass%20Kaddar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineering%20Student%20%7C%20AI%20%7C%20DevOps&descAlignY=51&descAlign=50" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1e88e5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineering+Student;DevOps+%26+AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </div>
@@ -9,8 +9,8 @@ src="https://capsule-render.vercel.app/api?type=waving&color=1e88e5&height=300&s
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1e88e5?style=for-the-badge\&logo=vercel\&logoColor=white)](https://imk-portfolio-woad.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-iliass-kaddar-002039325/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e88e5?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mohamed-iliass-kaddar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-iliass-kaddar/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/iliass_peter)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohamediliassk@gmail.com)
 
@@ -108,9 +108,11 @@ Fact: "Learning is my fuel — coding is my compass"
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="argoCD" width="45" height="45"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original-wordmark.svg" alt="Openstack" width="45" height="45" />
 </p>
 
 ###  Databases
@@ -121,6 +123,7 @@ Fact: "Learning is my fuel — coding is my compass"
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />
 </p>
 
 ###  Tools
